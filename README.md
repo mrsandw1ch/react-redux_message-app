@@ -1,9 +1,11 @@
 # React-Redux Message App
 
+*Learning Redux...*
+
 Simple todo-list-like application, which allows you to enter and store messages.
 By clicking 'Submit' button you add your message to an array which is stored in the Redux store and displayed below the button.
 
-*Learning Redux...*
+To install the application, run npm install in the project directory.
 
 ![screenshot](./screenshot.png)
 
